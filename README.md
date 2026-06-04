@@ -11,8 +11,9 @@ To get started, create an AWS account if you do not already have one. Connecting
 6. Enter a "Thing name" and click Next.
    ![AWS Device Name](sample_image2.jpg)
 8. Since the nRF board is being connected, keep the deafult selections on the web page for the SDK. 
-Select "Auto-generate a new certificate."
-Download the following files:
-Device Certificate
-Public Key
-Private Key
+9. Download the connection kit and inside you will find the AWS certificates.
+    ![AWS Certificate](sample_image3.jpg)
+11. Extract the certificates ending with ".cert.pem" and ".private.key"
+12. Next get the Amazon Root CA 1 certificate by using this link: https://www.amazontrust.com/repository/AmazonRootCA1.pem
+13. Before proceeding further, ensure that the nRF board is equipped with a sim card and an antenna (as illustrated below):
+    
