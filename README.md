@@ -16,4 +16,5 @@ To get started, create an AWS account if you do not already have one. Connecting
 11. Extract the certificates ending with ".cert.pem" and ".private.key"
 12. Next get the Amazon Root CA 1 certificate by using this link: https://www.amazontrust.com/repository/AmazonRootCA1.pem
 13. Before proceeding further, ensure that the nRF board is equipped with a sim card and an antenna (as illustrated below):
-    
+    ![board_antenna](board_antenna_connection.jpg)
+14. Before running the main.c code in the "src" folder, follow the comments in the code file and paste the necessary information from the certificates that you downloaded.
