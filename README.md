@@ -9,7 +9,8 @@ To get started, create an AWS account if you do not already have one. Connecting
 4. Scroll down and click "Next"
 5. Click "Create Thing"
 6. Enter a "Thing name" and click Next.
-7. Since the nRF board is being connected, keep the deafult selections on the web page for the SDK. 
+   ![AWS Device Name](sample_image2.jpg)
+8. Since the nRF board is being connected, keep the deafult selections on the web page for the SDK. 
 Select "Auto-generate a new certificate."
 Download the following files:
 Device Certificate
