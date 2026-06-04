@@ -5,6 +5,7 @@ To get started, create an AWS account if you do not already have one. Connecting
 1. Log in to the AWS Management Console.
 2. Search for "IoT Core" in the AWS search bar and open the AWS IoT Core service.
 3. In the left-hand menu, under "Connect" click "Connect one device".
+  ![AWS MQTT Connection](sample_image1.jpg)
 4. Scroll down and click "Next"
 5. Click "Create Thing"
 6. Enter a "Thing name" and click Next.
